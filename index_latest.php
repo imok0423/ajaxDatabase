@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+<!-- // created by Marin Rusi and Vic Artates -->
 <html>
 	<head>
 		<script>var number = 0; </script>
